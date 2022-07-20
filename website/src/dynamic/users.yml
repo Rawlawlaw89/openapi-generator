@@ -17,17 +17,17 @@
   caption: "Adyen"
   image: "img/companies/adyen.png"
   infoLink: "https://www.adyen.com/"
-  pinned: false
+  pinned: true
 -
   caption: "Agoda"
   image: "img/companies/agoda.png"
   infoLink: "https://www.agoda.com/"
-  pinned: false
+  pinned:true
 -
   caption: "Allianz"
   image: "img/companies/allianz.png"
   infoLink: "https://www.allianz.com"
-  pinned: false
+  pinned:true
 -
   caption: "Angular.Schule"
   image: "img/companies/angular-schule.svg"
@@ -588,4 +588,4 @@
   caption: 3DS OUTSCALE
   image: "img/companies/outscale.png"
   infoLink: "https://www.outscale.com/"
-  pinned: false
+  pinned: true
